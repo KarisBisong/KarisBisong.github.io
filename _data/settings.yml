@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Karis Bisong
-  site_tagline: Cloud Data Engineer
+  site_tagline: Cloud Data and Machine Learning Engineer
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -25,10 +25,10 @@ grid_settings:
   grid_spacing: 10
 
 contact_settings:
-  form_action: ''
-  confirmation_url: '/thanks'
-  email_subject: 'Contact form submission'
-  send_button_text: 'Send Message'
+#  form_action: ''
+#  confirmation_url: '/thanks'
+#  email_subject: 'Contact form submission'
+#  send_button_text: 'Send Message'
 
 social_settings:
   facebook_url: ''

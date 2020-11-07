@@ -11,9 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="731b7210-5075-4023-97aa-4cdcb0dbc3ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/karis.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/settings.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
