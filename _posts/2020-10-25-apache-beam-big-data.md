@@ -1,5 +1,5 @@
 ---
-title: 'Pipeline to Ingest Big Data to BigQuery with Apache Beam on Google Cloud DataFlow'
+title: 'Big Data Pipelines with Apache Beam using Google Cloud DataFlow and Google BigQuery'
 subtitle: 'Using UCI ML Physical Activity Monitoring Dataset'
 date: 2020-10-25 01:00:00
 featured_image: '/images/projects/big-data.png'
